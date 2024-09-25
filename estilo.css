@@ -1,0 +1,75 @@
+body{
+margin: 0 auto;
+max-width: 80%;
+background-image: url("/imagens/fundo.png")
+
+
+}
+
+
+
+nav{
+display: flex;
+justify-content: right;
+padding-top: 20px;
+padding-right: 50px;
+
+}
+
+.links{
+    margin-top: 1%;
+    gap: 20px;
+    display: flex;
+}
+
+.links a{
+text-decoration: none;
+color: black;
+
+
+}
+
+.logo{
+position: absolute;
+margin-right: 70%;
+
+}
+
+.imagens-body{
+display: block;
+justify-content: center;
+padding-top: 52px;
+padding-left: 200px;
+
+}
+
+h1{
+    padding-left: 210px;
+
+}
+
+p{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+
+footer{
+    text-align: center;
+}
+
+.texto-home{
+    display: flex;
+    text-align: center;
+}
+.quemsomos{
+    margin-top: 70px;
+
+}
+
+.contato{
+    text-align: center;
+    margin-top: 60px;
+    margin-right: 20px;
+}
